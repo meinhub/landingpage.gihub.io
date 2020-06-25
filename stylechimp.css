@@ -38,6 +38,7 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  left: 50%;
 }
 
 .btn-xl {
@@ -47,8 +48,7 @@ header.startup h1 {
 .btn-primary {
   background-color: #f05f44;
   border-color: #f05f44;
-  background-position: center;
-  text-align: center;
+  background-position: center; 
 }
 
 .btn-primary:hover {
