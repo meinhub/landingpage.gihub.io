@@ -1,1 +1,1 @@
-# landingpage.gihub.io
+# landingpage.github.io
